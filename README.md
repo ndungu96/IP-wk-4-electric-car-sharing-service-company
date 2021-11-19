@@ -9,3 +9,7 @@ Pandas
 
 ### AUTHOR
 Peter Ndung'u Karuku
+
+
+## License
+This project is licensed under the MIT License - see the license.txt file for details
